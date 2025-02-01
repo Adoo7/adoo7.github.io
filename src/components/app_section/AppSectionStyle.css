@@ -1,0 +1,20 @@
+.apps {
+  background-color: #f1f1f1;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-group {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 8em;
+  margin-inline: auto;
+}
+
+.app-description {
+  color: #1a1a1a;
+  font-size: medium;
+  text-align: center;
+}
